@@ -1,2 +1,4 @@
+// Resource site: https://www.worldometers.info/geography/how-many-countries-in-europe/
+
 countries = ["Latvia", "United States", "Canada", "United Kingdom", "Russia", "Germany", "France", "Italy", "Spain", "Ukraine", "Poland", "Romania", "Netherlands"];
 cosrcs = ["https://www.zm.gov.lv/en/", "https://www.usda.gov/", "https://agriculture.canada.ca/en", "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs", "https://mcx.gov.ru/en/", "https://www.bmel.de/EN/Home/home_node.html", "https://agriculture.gouv.fr/french-ministry-agriculture-and-food", "https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/202", "https://www.mapa.gob.es/en/", "https://minagro.gov.ua/en", "https://www.gov.pl/web/agriculture/ministry-of-agriculture-and-rural-development", "https://www.madr.ro/en/", "https://www.government.nl/ministries/ministry-of-agriculture-nature-and-food-quality"]; 
