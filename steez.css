@@ -1,0 +1,35 @@
+/* GENERAL */
+body{
+    background-color: slategray;
+}
+
+/* DIVS */
+
+#bigblanket{
+    position: relative;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    width: 99%;
+    height: 99%;
+    background-color: honeydew;
+}
+
+#ag_holder{
+    margin: auto;
+    width: 100%;
+    height: 100rem;
+}
+
+/* TEXT SPECIFIC */
+
+#hitemwithit{
+    color: whitesmoke;
+}
+
+.akon{
+    color: whitesmoke;
+}
+.akon:hover{
+    color: thistle;
+    text-decoration-style: wavy;
+}
