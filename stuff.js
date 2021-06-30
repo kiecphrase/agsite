@@ -14,4 +14,10 @@ function getCountry(countries,cosrcs){
     $("#ag_holder").attr("src", country_website);
 }
 
+
+// Actual Functions
 $(window).on('load', getCountry(countries,cosrcs));
+
+$("#refresh").click(function() {
+    location.reload();
+});
